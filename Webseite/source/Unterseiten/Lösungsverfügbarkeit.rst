@@ -12,6 +12,6 @@ Lösungsverfügbarkeit
 
 
 .. csv-table:: Verfügbarkeitstabelle
-   :file: ../a_Output_completeAvailability/Verfuegbarkeitstabelle.csv
+   :file: ../../../Anhang/2_Skripte_mit_Input_Output/Outputs/a_Output_completeAvailability/Verfuegbarkeitstabelle.csv
    :header-rows: 1
    :delim: ;
