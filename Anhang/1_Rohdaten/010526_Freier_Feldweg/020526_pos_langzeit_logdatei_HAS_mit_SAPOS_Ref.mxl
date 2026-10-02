@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tps:MAXML xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:tps="tps" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="tps http://mdc.topcon.com/schema/maxml-1.8.xsd">
+	<tps:ApplicationInfo>
+		<tps:Application>Topcon Field</tps:Application>
+		<tps:SerialNumber>2188840088</tps:SerialNumber>
+		<tps:Description>Topcon Field Controller Software for Surveying and Data Collection</tps:Description>
+		<tps:Version>10.1  (erstellt 2602030657)</tps:Version>
+	</tps:ApplicationInfo>
+	<tps:ProjectInfo id="JOB1">
+		<tps:Name>020526-pos-langzeit-logdatei-SAPOS-REF-gr</tps:Name>
+		<tps:CreationTime>2026-05-02T11:57:01Z</tps:CreationTime>
+		<tps:DisplayCoordSystemInfo>
+			<tps:DisplayType PlaneCoordOrder="NEH">grid</tps:DisplayType>
+			<tps:Grid>
+				<tps:Name>UTMNorth-Zone_32</tps:Name>
+			</tps:Grid>
+			<tps:Datum>
+				<tps:Name>ETRS89_UTM32_DE_DHN2016_NH</tps:Name>
+			</tps:Datum>
+		</tps:DisplayCoordSystemInfo>
+		<tps:Units>
+			<tps:DistanceUnits>meters</tps:DistanceUnits>
+			<tps:AngleUnits>dddmmsss</tps:AngleUnits>
+			<tps:PressureUnits>hpa</tps:PressureUnits>
+			<tps:TemperatureUnits>celsius</tps:TemperatureUnits>
+			<tps:VolumeUnits>cubic_meters</tps:VolumeUnits>
+		</tps:Units>
+	</tps:ProjectInfo>
+	<tps:Units>
+		<tps:DistanceUnits>meters</tps:DistanceUnits>
+		<tps:AngleUnits>dec_deg</tps:AngleUnits>
+		<tps:PressureUnits>hpa</tps:PressureUnits>
+		<tps:TemperatureUnits>celsius</tps:TemperatureUnits>
+		<tps:VolumeUnits>cubic_meters</tps:VolumeUnits>
+	</tps:Units>
+	<tps:ObservationInfos>
+		<tps:ObservationInfo id="OBS1">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS2">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS3">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS4">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS5">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS6">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS7">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS8">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS9">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+	</tps:ObservationInfos>
+	<tps:Devices>
+		<tps:Device id="DEV1">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV2">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV3">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV4">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+	</tps:Devices>
+	<tps:Controllers>
+		<tps:Controller id="CON1">
+			<tps:Name>Default string</tps:Name>
+			<tps:Manufacturer>Default string</tps:Manufacturer>
+			<tps:ControllerId>04F6U-DQCB9-SAMPS</tps:ControllerId>
+		</tps:Controller>
+	</tps:Controllers>
+	<tps:AntennaSettings>
+		<tps:GPSAntennaSetting id="ANT1">
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:Model>GPPNULLANTENNA  NONE</tps:Model>
+			<tps:SerialNumber></tps:SerialNumber>
+		</tps:GPSAntennaSetting>
+		<tps:GPSAntennaSetting id="ANT2">
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:Model>TPSHIPER_XR     NONE</tps:Model>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+		</tps:GPSAntennaSetting>
+	</tps:AntennaSettings>
+	<tps:CoordSystems>
+		<tps:CoordSystemInfo id="COS1">
+			<tps:TypeCS>grid</tps:TypeCS>
+			<tps:Grid id="GRD1">
+				<tps:Name>UTMNorth-Zone_32</tps:Name>
+				<tps:DisplayName>UTMNorth-Zone_32 : 6E to 12E</tps:DisplayName>
+				<tps:Comment>6E to 12E</tps:Comment>
+				<tps:Source>predefined</tps:Source>
+				<tps:Projection>
+					<tps:Units>
+						<tps:DistanceUnits>meters</tps:DistanceUnits>
+						<tps:AngleUnits>dddmmsss</tps:AngleUnits>
+						<tps:ScaleUnits>decimal</tps:ScaleUnits>
+					</tps:Units>
+					<tps:Type>TMERC</tps:Type>
+					<tps:ParamsProjection>
+						<tps:P0 name="Central Meridian" type="angle">9.000000000</tps:P0>
+						<tps:P1 name="Scale" type="scale">0.999600000</tps:P1>
+						<tps:P2 name="Lat0" type="angle">0.000000000</tps:P2>
+						<tps:P3 name="East0" type="distance">500000.000000000</tps:P3>
+						<tps:P4 name="North0" type="distance">0.000000000</tps:P4>
+					</tps:ParamsProjection>
+				</tps:Projection>
+			</tps:Grid>
+			<tps:Datum id="DTM1">
+				<tps:Name>ETRS89_UTM32_DE_DHN2016_NH</tps:Name>
+				<tps:Comment>RTCM</tps:Comment>
+				<tps:EllipsoidDefinition>
+					<tps:Name>ETRS89_UTM32_DE_DHN2016_NH_1</tps:Name>
+					<tps:Comment>RTCM</tps:Comment>
+					<tps:Source>external</tps:Source>
+					<tps:A>6378137.000000</tps:A>
+					<tps:InvF>298.257220</tps:InvF>
+				</tps:EllipsoidDefinition>
+				<tps:Source>external</tps:Source>
+				<tps:DatumTransformation id="DTT1">
+					<tps:Name>Custom Transformation</tps:Name>
+					<tps:Source>external</tps:Source>
+					<tps:CustomTransformation>
+						<tps:DllName>RTCMTransformation</tps:DllName>
+						<tps:DataFile>020526-pos-langzeit-logdatei-SAPOS-REF-gr.mxl.extdata\CSRefID\DatumTransformation\ETRS89_UTM32_DE_DHN2016_NH.dff</tps:DataFile>
+					</tps:CustomTransformation>
+					<tps:Units>
+						<tps:DistanceUnits>meters</tps:DistanceUnits>
+						<tps:AngleUnits>arcsec</tps:AngleUnits>
+						<tps:ScaleUnits>ppm</tps:ScaleUnits>
+					</tps:Units>
+				</tps:DatumTransformation>
+				<tps:ActiveTransformation idRef="DTT1"/>
+			</tps:Datum>
+		</tps:CoordSystemInfo>
+	</tps:CoordSystems>
+	<tps:ObservationSession>
+		<tps:GPSBaseStation id="RGP1" measIdRef="MSS1">
+			<tps:Station id="STA1">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.839855931944</tps:Latitude>
+						<tps:Longitude>6.578501582500</tps:Longitude>
+						<tps:Height>419.569900000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-02T12:02:43Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523637.973177982</tps:North>
+						<tps:East>325891.182731769</tps:East>
+						<tps:Height>371.469389269</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>3556</tps:VirtualStationId>
+			<tps:PhysicalStationId>534</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSPosition id="RGP2" measIdRef="MSS2">
+			<tps:Station id="STA2">
+				<tps:Name>1-SAPOS-REFPKT</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.839850992282</tps:Latitude>
+						<tps:Longitude>6.578484905099</tps:Longitude>
+						<tps:Height>417.189980666</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-02T12:03:42Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523637.462811512</tps:North>
+						<tps:East>325889.965978154</tps:East>
+						<tps:Height>369.089475128</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP1"/>
+			<tps:CV>
+				<tps:XX>1.93665e-06</tps:XX>
+				<tps:YY>5.19107e-07</tps:YY>
+				<tps:ZZ>2.54425e-06</tps:ZZ>
+				<tps:XY>1.60426e-07</tps:XY>
+				<tps:XZ>1.70921e-06</tps:XZ>
+				<tps:YZ>1.95369e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.0398e-07</tps:XX>
+				<tps:YY>5.01196e-07</tps:YY>
+				<tps:ZZ>3.99482e-06</tps:ZZ>
+				<tps:XY>2.79322e-09</tps:XY>
+				<tps:XZ>1.38743e-09</tps:XZ>
+				<tps:YZ>-4.62219e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.460000</tps:HDop>
+				<tps:VDop>0.716975</tps:VDop>
+				<tps:TDop>0.435190</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>8</tps:GLONASSSats>
+			<tps:GalileoSats>7</tps:GalileoSats>
+			<tps:BeiDouSats>11</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+			<tps:RTKReset>true</tps:RTKReset>
+		</tps:GPSPosition>
+	</tps:ObservationSession>
+	<tps:MeasurementSessions>
+		<tps:MeasurementSession id="MSS3" csIdRef="COS1" obsInfoIdRef="OBS2"/>
+		<tps:MeasurementSession id="MSS4" csIdRef="COS1" obsInfoIdRef="OBS3"/>
+		<tps:MeasurementSession id="MSS5" csIdRef="COS1" obsInfoIdRef="OBS4"/>
+		<tps:MeasurementSession id="MSS6" csIdRef="COS1" obsInfoIdRef="OBS5"/>
+		<tps:MeasurementSession id="MSS7" csIdRef="COS1" obsInfoIdRef="OBS6"/>
+		<tps:MeasurementSession id="MSS8" csIdRef="COS1" obsInfoIdRef="OBS7"/>
+		<tps:MeasurementSession id="MSS9" csIdRef="COS1" obsInfoIdRef="OBS8"/>
+		<tps:MeasurementSession id="MSS10" csIdRef="COS1" obsInfoIdRef="OBS9"/>
+		<tps:MeasurementSession id="MSS1" deviceIdRef="DEV1" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS1"/>
+		<tps:MeasurementSession id="MSS2" deviceIdRef="DEV1" controllerIdRef="CON1" gpsAntIdRef="ANT2" csIdRef="COS1" obsInfoIdRef="OBS1"/>
+	</tps:MeasurementSessions>
+	<tps:PlanEntities>
+		<tps:DesignPoint id="DPT1" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA3">
+				<tps:Name>1-SAPOS-REFPKT</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523637.462811512</tps:North>
+						<tps:East>325889.965978154</tps:East>
+						<tps:Height>369.089475128</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>369.089475128</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+	</tps:PlanEntities>
+	<tps:Roads>
+	</tps:Roads>
+</tps:MAXML>

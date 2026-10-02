@@ -1,0 +1,1869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tps:MAXML xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:tps="tps" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="tps http://mdc.topcon.com/schema/maxml-1.8.xsd">
+	<tps:ApplicationInfo>
+		<tps:Application>Topcon Field</tps:Application>
+		<tps:SerialNumber>2188840088</tps:SerialNumber>
+		<tps:Description>Topcon Field Controller Software for Surveying and Data Collection</tps:Description>
+		<tps:Version>10.1  (erstellt 2602030657)</tps:Version>
+	</tps:ApplicationInfo>
+	<tps:ProjectInfo id="JOB1">
+		<tps:Name>010526-strase-feldweg-SAPOS-TILT-gr1</tps:Name>
+		<tps:CreationTime>2026-05-01T13:43:41Z</tps:CreationTime>
+		<tps:DisplayCoordSystemInfo>
+			<tps:DisplayType PlaneCoordOrder="NEH">grid</tps:DisplayType>
+			<tps:Grid>
+				<tps:Name>UTMNorth-Zone_32</tps:Name>
+			</tps:Grid>
+			<tps:Datum>
+				<tps:Name>ETRS89_UTM32_DE_DHN2016_NH</tps:Name>
+			</tps:Datum>
+		</tps:DisplayCoordSystemInfo>
+		<tps:Units>
+			<tps:DistanceUnits>meters</tps:DistanceUnits>
+			<tps:AngleUnits>dddmmsss</tps:AngleUnits>
+			<tps:PressureUnits>hpa</tps:PressureUnits>
+			<tps:TemperatureUnits>celsius</tps:TemperatureUnits>
+			<tps:VolumeUnits>cubic_meters</tps:VolumeUnits>
+		</tps:Units>
+	</tps:ProjectInfo>
+	<tps:Units>
+		<tps:DistanceUnits>meters</tps:DistanceUnits>
+		<tps:AngleUnits>dec_deg</tps:AngleUnits>
+		<tps:PressureUnits>hpa</tps:PressureUnits>
+		<tps:TemperatureUnits>celsius</tps:TemperatureUnits>
+		<tps:VolumeUnits>cubic_meters</tps:VolumeUnits>
+	</tps:Units>
+	<tps:ObservationInfos>
+		<tps:ObservationInfo id="OBS1">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS2">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS3">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS4">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS5">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS6">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS7">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+		<tps:ObservationInfo id="OBS8">
+			<tps:Temperature>20.00</tps:Temperature>
+			<tps:Pressure>1013.30</tps:Pressure>
+			<tps:Humidity>50.00</tps:Humidity>
+		</tps:ObservationInfo>
+	</tps:ObservationInfos>
+	<tps:Devices>
+		<tps:Device id="DEV1">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV2">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV3">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV4">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+		<tps:Device id="DEV5">
+			<tps:DeviceType>gps</tps:DeviceType>
+			<tps:ModelName>HiPer XR</tps:ModelName>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+			<tps:FWVersion>7.2+2602091836</tps:FWVersion>
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:DeviceId>2O983UKTK1M49</tps:DeviceId>
+		</tps:Device>
+	</tps:Devices>
+	<tps:Controllers>
+		<tps:Controller id="CON1">
+			<tps:Name>Default string</tps:Name>
+			<tps:Manufacturer>Default string</tps:Manufacturer>
+			<tps:ControllerId>04F6U-DQCB9-SAMPS</tps:ControllerId>
+		</tps:Controller>
+	</tps:Controllers>
+	<tps:AntennaSettings>
+		<tps:GPSAntennaSetting id="ANT1">
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:Model>GPPNULLANTENNA  NONE</tps:Model>
+			<tps:SerialNumber></tps:SerialNumber>
+		</tps:GPSAntennaSetting>
+		<tps:GPSAntennaSetting id="ANT2">
+			<tps:Manufacturer>Topcon</tps:Manufacturer>
+			<tps:Model>TPSHIPER_XR     NONE</tps:Model>
+			<tps:SerialNumber>1663-10497</tps:SerialNumber>
+		</tps:GPSAntennaSetting>
+	</tps:AntennaSettings>
+	<tps:CoordSystems>
+		<tps:CoordSystemInfo id="COS1">
+			<tps:TypeCS>grid</tps:TypeCS>
+			<tps:Grid id="GRD1">
+				<tps:Name>UTMNorth-Zone_32</tps:Name>
+				<tps:DisplayName>UTMNorth-Zone_32 : 6E to 12E</tps:DisplayName>
+				<tps:Comment>6E to 12E</tps:Comment>
+				<tps:Source>predefined</tps:Source>
+				<tps:Projection>
+					<tps:Units>
+						<tps:DistanceUnits>meters</tps:DistanceUnits>
+						<tps:AngleUnits>dddmmsss</tps:AngleUnits>
+						<tps:ScaleUnits>decimal</tps:ScaleUnits>
+					</tps:Units>
+					<tps:Type>TMERC</tps:Type>
+					<tps:ParamsProjection>
+						<tps:P0 name="Central Meridian" type="angle">9.000000000</tps:P0>
+						<tps:P1 name="Scale" type="scale">0.999600000</tps:P1>
+						<tps:P2 name="Lat0" type="angle">0.000000000</tps:P2>
+						<tps:P3 name="East0" type="distance">500000.000000000</tps:P3>
+						<tps:P4 name="North0" type="distance">0.000000000</tps:P4>
+					</tps:ParamsProjection>
+				</tps:Projection>
+			</tps:Grid>
+			<tps:Datum id="DTM1">
+				<tps:Name>ETRS89_UTM32_DE_DHN2016_NH</tps:Name>
+				<tps:Comment>RTCM</tps:Comment>
+				<tps:EllipsoidDefinition>
+					<tps:Name>ETRS89_UTM32_DE_DHN2016_NH_1</tps:Name>
+					<tps:Comment>RTCM</tps:Comment>
+					<tps:Source>external</tps:Source>
+					<tps:A>6378137.000000</tps:A>
+					<tps:InvF>298.257220</tps:InvF>
+				</tps:EllipsoidDefinition>
+				<tps:Source>external</tps:Source>
+				<tps:DatumTransformation id="DTT1">
+					<tps:Name>Custom Transformation</tps:Name>
+					<tps:Source>external</tps:Source>
+					<tps:CustomTransformation>
+						<tps:DllName>RTCMTransformation</tps:DllName>
+						<tps:DataFile>010526-strase-feldweg-SAPOS-TILT-gr1.mxl.extdata\CSRefID\DatumTransformation\ETRS89_UTM32_DE_DHN2016_NH.dff</tps:DataFile>
+					</tps:CustomTransformation>
+					<tps:Units>
+						<tps:DistanceUnits>meters</tps:DistanceUnits>
+						<tps:AngleUnits>arcsec</tps:AngleUnits>
+						<tps:ScaleUnits>ppm</tps:ScaleUnits>
+					</tps:Units>
+				</tps:DatumTransformation>
+				<tps:ActiveTransformation idRef="DTT1"/>
+			</tps:Datum>
+		</tps:CoordSystemInfo>
+	</tps:CoordSystems>
+	<tps:ObservationSession>
+		<tps:GPSBaseStation id="RGP1" measIdRef="MSS1">
+			<tps:Station id="STA1">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841599726944</tps:Latitude>
+						<tps:Longitude>6.579377359167</tps:Longitude>
+						<tps:Height>428.120800000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:43:41Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523829.787429258</tps:North>
+						<tps:East>325960.408658868</tps:East>
+						<tps:Height>380.020689302</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>3880</tps:VirtualStationId>
+			<tps:PhysicalStationId>534</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSBaseStation id="RGP2" measIdRef="MSS2">
+			<tps:Station id="STA2">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841097933889</tps:Latitude>
+						<tps:Longitude>6.578608717778</tps:Longitude>
+						<tps:Height>427.106700000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:45:43Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523775.791236944</tps:North>
+						<tps:East>325903.347112441</tps:East>
+						<tps:Height>379.006727529</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>4028</tps:VirtualStationId>
+			<tps:PhysicalStationId>-1</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSPosition id="RGP3" measIdRef="MSS3">
+			<tps:Station id="STA3">
+				<tps:Name>1_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841099304360</tps:Latitude>
+						<tps:Longitude>6.578609701985</tps:Longitude>
+						<tps:Height>425.144685684</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:48:07Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523775.941298465</tps:North>
+						<tps:East>325903.422792857</tps:East>
+						<tps:Height>377.044713387</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.9773e-06</tps:XX>
+				<tps:YY>5.87806e-07</tps:YY>
+				<tps:ZZ>2.57305e-06</tps:ZZ>
+				<tps:XY>1.61713e-07</tps:XY>
+				<tps:XZ>1.66914e-06</tps:XZ>
+				<tps:YZ>1.84473e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.80563e-07</tps:XX>
+				<tps:YY>5.69234e-07</tps:YY>
+				<tps:ZZ>3.98836e-06</tps:ZZ>
+				<tps:XY>-4.62459e-09</tps:XY>
+				<tps:XZ>2.05307e-09</tps:XZ>
+				<tps:YZ>-6.52422e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.461124</tps:HDop>
+				<tps:VDop>0.722548</tps:VDop>
+				<tps:TDop>0.451581</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+			<tps:RTKReset>true</tps:RTKReset>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP4" measIdRef="MSS3">
+			<tps:Station id="STA4">
+				<tps:Name>2_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841160648197</tps:Latitude>
+						<tps:Longitude>6.578714376839</tps:Longitude>
+						<tps:Height>425.733522969</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:49:42Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523782.517382437</tps:North>
+						<tps:East>325911.168479047</tps:East>
+						<tps:Height>377.633529499</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93657e-06</tps:XX>
+				<tps:YY>5.19107e-07</tps:YY>
+				<tps:ZZ>2.54432e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03975e-07</tps:XX>
+				<tps:YY>5.01196e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79143e-09</tps:XY>
+				<tps:XZ>1.38674e-09</tps:XZ>
+				<tps:YZ>-4.62427e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.466595</tps:HDop>
+				<tps:VDop>0.724117</tps:VDop>
+				<tps:TDop>0.454981</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP5" measIdRef="MSS3">
+			<tps:Station id="STA5">
+				<tps:Name>3_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841225453096</tps:Latitude>
+						<tps:Longitude>6.578817146364</tps:Longitude>
+						<tps:Height>425.894445008</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:52:26Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523789.482652148</tps:North>
+						<tps:East>325918.789601541</tps:East>
+						<tps:Height>377.794432632</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93656e-06</tps:XX>
+				<tps:YY>5.19108e-07</tps:YY>
+				<tps:ZZ>2.54433e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01196e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79129e-09</tps:XY>
+				<tps:XZ>1.387e-09</tps:XZ>
+				<tps:YZ>-4.62775e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.466090</tps:HDop>
+				<tps:VDop>0.728056</tps:VDop>
+				<tps:TDop>0.457790</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP6" measIdRef="MSS3">
+			<tps:Station id="STA6">
+				<tps:Name>4_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841291235011</tps:Latitude>
+						<tps:Longitude>6.578921364750</tps:Longitude>
+						<tps:Height>426.119321216</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:54:04Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523796.553176174</tps:North>
+						<tps:East>325926.518375675</tps:East>
+						<tps:Height>378.019289416</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93656e-06</tps:XX>
+				<tps:YY>5.19108e-07</tps:YY>
+				<tps:ZZ>2.54433e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01197e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79114e-09</tps:XY>
+				<tps:XZ>1.38726e-09</tps:XZ>
+				<tps:YZ>-4.63129e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.470000</tps:HDop>
+				<tps:VDop>0.732792</tps:VDop>
+				<tps:TDop>0.460000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>7</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP7" measIdRef="MSS3">
+			<tps:Station id="STA7">
+				<tps:Name>5_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841358573678</tps:Latitude>
+						<tps:Longitude>6.579027174073</tps:Longitude>
+						<tps:Height>426.128992920</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:55:37Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523803.793071472</tps:North>
+						<tps:East>325934.367097106</tps:East>
+						<tps:Height>378.028941363</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93656e-06</tps:XX>
+				<tps:YY>5.19109e-07</tps:YY>
+				<tps:ZZ>2.54434e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01197e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79099e-09</tps:XY>
+				<tps:XZ>1.38753e-09</tps:XZ>
+				<tps:YZ>-4.63487e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.470000</tps:HDop>
+				<tps:VDop>0.730163</tps:VDop>
+				<tps:TDop>0.460000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>7</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP8" measIdRef="MSS3">
+			<tps:Station id="STA8">
+				<tps:Name>6_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841424890523</tps:Latitude>
+						<tps:Longitude>6.579128945809</tps:Longitude>
+						<tps:Height>426.042176595</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:57:09Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523810.928765912</tps:North>
+						<tps:East>325941.921858132</tps:East>
+						<tps:Height>377.942106473</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93655e-06</tps:XX>
+				<tps:YY>5.19109e-07</tps:YY>
+				<tps:ZZ>2.54434e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01198e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79085e-09</tps:XY>
+				<tps:XZ>1.38778e-09</tps:XZ>
+				<tps:YZ>-4.63831e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.470000</tps:HDop>
+				<tps:VDop>0.720000</tps:VDop>
+				<tps:TDop>0.457268</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>7</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP9" measIdRef="MSS3">
+			<tps:Station id="STA9">
+				<tps:Name>7_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841487342800</tps:Latitude>
+						<tps:Longitude>6.579234699443</tps:Longitude>
+						<tps:Height>426.089179434</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T13:58:48Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523817.625617027</tps:North>
+						<tps:East>325949.748984388</tps:East>
+						<tps:Height>377.989086756</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93655e-06</tps:XX>
+				<tps:YY>5.1911e-07</tps:YY>
+				<tps:ZZ>2.54434e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01198e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79071e-09</tps:XY>
+				<tps:XZ>1.38805e-09</tps:XZ>
+				<tps:YZ>-4.64192e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.460162</tps:HDop>
+				<tps:VDop>0.692288</tps:VDop>
+				<tps:TDop>0.430161</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP10" measIdRef="MSS3">
+			<tps:Station id="STA10">
+				<tps:Name>8_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841554653465</tps:Latitude>
+						<tps:Longitude>6.579350082380</tps:Longitude>
+						<tps:Height>426.063572354</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:00:16Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523824.840195523</tps:North>
+						<tps:East>325958.285806330</tps:East>
+						<tps:Height>377.963454374</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93654e-06</tps:XX>
+				<tps:YY>5.1911e-07</tps:YY>
+				<tps:ZZ>2.54435e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01199e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79056e-09</tps:XY>
+				<tps:XZ>1.38835e-09</tps:XZ>
+				<tps:YZ>-4.64586e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.470166</tps:HDop>
+				<tps:VDop>0.694772</tps:VDop>
+				<tps:TDop>0.435081</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>7</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP11" measIdRef="MSS3">
+			<tps:Station id="STA11">
+				<tps:Name>9_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841621741995</tps:Latitude>
+						<tps:Longitude>6.579469208197</tps:Longitude>
+						<tps:Height>425.962495664</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:01:45Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523832.021400357</tps:North>
+						<tps:East>325967.090889017</tps:East>
+						<tps:Height>377.862350132</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93654e-06</tps:XX>
+				<tps:YY>5.19111e-07</tps:YY>
+				<tps:ZZ>2.54435e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03972e-07</tps:XX>
+				<tps:YY>5.012e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.7904e-09</tps:XY>
+				<tps:XZ>1.38866e-09</tps:XZ>
+				<tps:YZ>-4.64993e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.476719</tps:HDop>
+				<tps:VDop>0.714089</tps:VDop>
+				<tps:TDop>0.453580</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP12" measIdRef="MSS3">
+			<tps:Station id="STA12">
+				<tps:Name>10_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841689778179</tps:Latitude>
+						<tps:Longitude>6.579582832462</tps:Longitude>
+						<tps:Height>425.834153892</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:03:36Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523839.320742139</tps:North>
+						<tps:East>325975.503837344</tps:East>
+						<tps:Height>377.733983598</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93653e-06</tps:XX>
+				<tps:YY>5.19112e-07</tps:YY>
+				<tps:ZZ>2.54436e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95375e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03972e-07</tps:XX>
+				<tps:YY>5.012e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79025e-09</tps:XY>
+				<tps:XZ>1.38895e-09</tps:XZ>
+				<tps:YZ>-4.6538e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.488079</tps:HDop>
+				<tps:VDop>0.717409</tps:VDop>
+				<tps:TDop>0.462854</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>10</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP13" measIdRef="MSS3">
+			<tps:Station id="STA13">
+				<tps:Name>11_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841710869862</tps:Latitude>
+						<tps:Longitude>6.579549448672</tps:Longitude>
+						<tps:Height>426.008585385</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:05:52Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523841.742930001</tps:North>
+						<tps:East>325973.179575814</tps:East>
+						<tps:Height>377.908441002</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93653e-06</tps:XX>
+				<tps:YY>5.19111e-07</tps:YY>
+				<tps:ZZ>2.54436e-06</tps:ZZ>
+				<tps:XY>1.60421e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95375e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03972e-07</tps:XX>
+				<tps:YY>5.012e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79024e-09</tps:XY>
+				<tps:XZ>1.38882e-09</tps:XZ>
+				<tps:YZ>-4.65247e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.500000</tps:HDop>
+				<tps:VDop>0.750000</tps:VDop>
+				<tps:TDop>0.490000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>9</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP14" measIdRef="MSS3">
+			<tps:Station id="STA14">
+				<tps:Name>12_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841644360670</tps:Latitude>
+						<tps:Longitude>6.579437879599</tps:Longitude>
+						<tps:Height>426.123595614</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:07:21Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523834.608566420</tps:North>
+						<tps:East>325964.919862449</tps:East>
+						<tps:Height>378.023475684</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93654e-06</tps:XX>
+				<tps:YY>5.19111e-07</tps:YY>
+				<tps:ZZ>2.54435e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03972e-07</tps:XX>
+				<tps:YY>5.01199e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79039e-09</tps:XY>
+				<tps:XZ>1.38853e-09</tps:XZ>
+				<tps:YZ>-4.64866e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.500000</tps:HDop>
+				<tps:VDop>0.744213</tps:VDop>
+				<tps:TDop>0.480000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>9</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>60000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>61</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP15" measIdRef="MSS3">
+			<tps:Station id="STA15">
+				<tps:Name>13_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841576325471</tps:Latitude>
+						<tps:Longitude>6.579325312372</tps:Longitude>
+						<tps:Height>426.175693734</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:09:19Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523827.306895059</tps:North>
+						<tps:East>325956.582887776</tps:East>
+						<tps:Height>378.075597740</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93654e-06</tps:XX>
+				<tps:YY>5.1911e-07</tps:YY>
+				<tps:ZZ>2.54435e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01199e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79054e-09</tps:XY>
+				<tps:XZ>1.38825e-09</tps:XZ>
+				<tps:YZ>-4.64483e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.515141</tps:HDop>
+				<tps:VDop>0.780151</tps:VDop>
+				<tps:TDop>0.512655</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>9</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>60000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>61</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP16" measIdRef="MSS3">
+			<tps:Station id="STA16">
+				<tps:Name>14_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841508602726</tps:Latitude>
+						<tps:Longitude>6.579209245569</tps:Longitude>
+						<tps:Height>426.162954609</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:10:57Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523820.048098962</tps:North>
+						<tps:East>325947.995422633</tps:East>
+						<tps:Height>378.062884076</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93655e-06</tps:XX>
+				<tps:YY>5.1911e-07</tps:YY>
+				<tps:ZZ>2.54435e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01198e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.7907e-09</tps:XY>
+				<tps:XZ>1.38795e-09</tps:XZ>
+				<tps:YZ>-4.64087e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.530324</tps:HDop>
+				<tps:VDop>0.800948</tps:VDop>
+				<tps:TDop>0.530324</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>9</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>7</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP17" measIdRef="MSS3">
+			<tps:Station id="STA17">
+				<tps:Name>15_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841444309419</tps:Latitude>
+						<tps:Longitude>6.579101428186</tps:Longitude>
+						<tps:Height>426.154013580</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:12:32Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523813.151386382</tps:North>
+						<tps:East>325940.013318024</tps:East>
+						<tps:Height>378.053965769</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP2"/>
+			<tps:CV>
+				<tps:XX>1.93655e-06</tps:XX>
+				<tps:YY>5.19109e-07</tps:YY>
+				<tps:ZZ>2.54434e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95374e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03973e-07</tps:XX>
+				<tps:YY>5.01198e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79084e-09</tps:XY>
+				<tps:XZ>1.38767e-09</tps:XZ>
+				<tps:YZ>-4.6372e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.530324</tps:HDop>
+				<tps:VDop>0.797392</tps:VDop>
+				<tps:TDop>0.530324</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>9</tps:GPSSats>
+			<tps:GLONASSSats>6</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>7</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSBaseStation id="RGP18" measIdRef="MSS4">
+			<tps:Station id="STA18">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841376305000</tps:Latitude>
+						<tps:Longitude>6.578999530556</tps:Longitude>
+						<tps:Height>427.715900000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:18:39Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523805.828388082</tps:North>
+						<tps:East>325932.443444511</tps:East>
+						<tps:Height>379.615870034</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>125</tps:VirtualStationId>
+			<tps:PhysicalStationId>534</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSBaseStation id="RGP19" measIdRef="MSS4">
+			<tps:Station id="STA19">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841098730000</tps:Latitude>
+						<tps:Longitude>6.578609020833</tps:Longitude>
+						<tps:Height>427.206700000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:29:03Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523775.879032420</tps:North>
+						<tps:East>325903.371759905</tps:East>
+						<tps:Height>379.106727759</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>191</tps:VirtualStationId>
+			<tps:PhysicalStationId>-1</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSBaseStation id="RGP20" measIdRef="MSS5">
+			<tps:Station id="STA20">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841113534722</tps:Latitude>
+						<tps:Longitude>6.578606858611</tps:Longitude>
+						<tps:Height>426.864300000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:31:45Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523777.529821303</tps:North>
+						<tps:East>325903.269500501</tps:East>
+						<tps:Height>378.764335785</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>206</tps:VirtualStationId>
+			<tps:PhysicalStationId>534</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSBaseStation id="RGP21" measIdRef="MSS6">
+			<tps:Station id="STA21">
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841095616944</tps:Latitude>
+						<tps:Longitude>6.578602709167</tps:Longitude>
+						<tps:Height>426.617000000</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:33:23Z</tps:Time>
+			<tps:AntennaHeight>0.077400</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523775.547634534</tps:North>
+						<tps:East>325902.906815937</tps:East>
+						<tps:Height>378.517029304</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:VirtualStationId>219</tps:VirtualStationId>
+			<tps:PhysicalStationId>-1</tps:PhysicalStationId>
+			<tps:NtripMountpointInfo>
+				<tps:Address>sapos-ntrip.rlp.de</tps:Address>
+				<tps:Port>2101</tps:Port>
+				<tps:Name>VRS_3_4G</tps:Name>
+			</tps:NtripMountpointInfo>
+		</tps:GPSBaseStation>
+		<tps:GPSPosition id="RGP22" measIdRef="MSS7">
+			<tps:Station id="STA22">
+				<tps:Name>15</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841380708202</tps:Latitude>
+						<tps:Longitude>6.578994785843</tps:Longitude>
+						<tps:Height>426.128327653</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:36:05Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523806.328891578</tps:North>
+						<tps:East>325932.118154859</tps:East>
+						<tps:Height>378.028302026</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP21"/>
+			<tps:CV>
+				<tps:XX>1.93655e-06</tps:XX>
+				<tps:YY>5.19108e-07</tps:YY>
+				<tps:ZZ>2.54434e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01197e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79098e-09</tps:XY>
+				<tps:XZ>1.3874e-09</tps:XZ>
+				<tps:YZ>-4.63356e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.490000</tps:HDop>
+				<tps:VDop>0.740000</tps:VDop>
+				<tps:TDop>0.480000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>5</tps:GLONASSSats>
+			<tps:GalileoSats>9</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+			<tps:RTKReset>true</tps:RTKReset>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP23" measIdRef="MSS7">
+			<tps:Station id="STA23">
+				<tps:Name>16</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841316358119</tps:Latitude>
+						<tps:Longitude>6.578883081950</tps:Longitude>
+						<tps:Height>426.003719102</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:39:00Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523799.434919139</tps:North>
+						<tps:East>325923.856397284</tps:East>
+						<tps:Height>377.903717473</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP21"/>
+			<tps:CV>
+				<tps:XX>1.93656e-06</tps:XX>
+				<tps:YY>5.19108e-07</tps:YY>
+				<tps:ZZ>2.54433e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01197e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79113e-09</tps:XY>
+				<tps:XZ>1.38711e-09</tps:XZ>
+				<tps:YZ>-4.62975e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.490000</tps:HDop>
+				<tps:VDop>0.730000</tps:VDop>
+				<tps:TDop>0.470000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>5</tps:GLONASSSats>
+			<tps:GalileoSats>9</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP24" measIdRef="MSS7">
+			<tps:Station id="STA24">
+				<tps:Name>17</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841248698024</tps:Latitude>
+						<tps:Longitude>6.578779095626</tps:Longitude>
+						<tps:Height>425.965897797</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:40:32Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523792.155072066</tps:North>
+						<tps:East>325916.137559527</tps:East>
+						<tps:Height>377.865914601</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP21"/>
+			<tps:CV>
+				<tps:XX>1.93656e-06</tps:XX>
+				<tps:YY>5.19107e-07</tps:YY>
+				<tps:ZZ>2.54433e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03974e-07</tps:XX>
+				<tps:YY>5.01196e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79128e-09</tps:XY>
+				<tps:XZ>1.38685e-09</tps:XZ>
+				<tps:YZ>-4.62623e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.481951</tps:HDop>
+				<tps:VDop>0.705704</tps:VDop>
+				<tps:TDop>0.445541</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>5</tps:GLONASSSats>
+			<tps:GalileoSats>9</tps:GalileoSats>
+			<tps:BeiDouSats>9</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP25" measIdRef="MSS7">
+			<tps:Station id="STA25">
+				<tps:Name>18</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841187416361</tps:Latitude>
+						<tps:Longitude>6.578677186912</tps:Longitude>
+						<tps:Height>425.776716018</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:42:07Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523785.579466231</tps:North>
+						<tps:East>325908.590979679</tps:East>
+						<tps:Height>377.676752972</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP21"/>
+			<tps:CV>
+				<tps:XX>1.93657e-06</tps:XX>
+				<tps:YY>5.19107e-07</tps:YY>
+				<tps:ZZ>2.54433e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95373e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03975e-07</tps:XX>
+				<tps:YY>5.01196e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79142e-09</tps:XY>
+				<tps:XZ>1.38659e-09</tps:XZ>
+				<tps:YZ>-4.62276e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.495426</tps:HDop>
+				<tps:VDop>0.728133</tps:VDop>
+				<tps:TDop>0.467936</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>5</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>9</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+		<tps:GPSPosition id="RGP26" measIdRef="MSS7">
+			<tps:Station id="STA26">
+				<tps:Name>19</tps:Name>
+				<tps:Position>
+					<tps:BLH>
+						<tps:Latitude>49.841124085900</tps:Latitude>
+						<tps:Longitude>6.578576705557</tps:Longitude>
+						<tps:Height>425.331584182</tps:Height>
+					</tps:BLH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:Station>
+			<tps:Time>2026-05-01T14:43:44Z</tps:Time>
+			<tps:AntennaHeight>2.000000</tps:AntennaHeight>
+			<tps:Depth>0.000000</tps:Depth>
+			<tps:PlaneStation>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523778.772799878</tps:North>
+						<tps:East>325901.139636888</tps:East>
+						<tps:Height>377.231639375</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+			</tps:PlaneStation>
+			<tps:Depth2ndFreq>0.000000</tps:Depth2ndFreq>
+			<tps:BaseStation idRef="RGP21"/>
+			<tps:CV>
+				<tps:XX>1.93657e-06</tps:XX>
+				<tps:YY>5.19106e-07</tps:YY>
+				<tps:ZZ>2.54432e-06</tps:ZZ>
+				<tps:XY>1.60422e-07</tps:XY>
+				<tps:XZ>1.7092e-06</tps:XZ>
+				<tps:YZ>1.95372e-07</tps:YZ>
+			</tps:CV>
+			<tps:CVNeu>
+				<tps:XX>5.03975e-07</tps:XX>
+				<tps:YY>5.01195e-07</tps:YY>
+				<tps:ZZ>3.99483e-06</tps:ZZ>
+				<tps:XY>2.79155e-09</tps:XY>
+				<tps:XZ>1.38634e-09</tps:XZ>
+				<tps:YZ>-4.61935e-09</tps:YZ>
+			</tps:CVNeu>
+			<tps:Dop>
+				<tps:HDop>0.510000</tps:HDop>
+				<tps:VDop>0.750000</tps:VDop>
+				<tps:TDop>0.490000</tps:TDop>
+			</tps:Dop>
+			<tps:TypeSolution>phase_diff_fixed</tps:TypeSolution>
+			<tps:GPSSats>8</tps:GPSSats>
+			<tps:GLONASSSats>5</tps:GLONASSSats>
+			<tps:GalileoSats>8</tps:GalileoSats>
+			<tps:BeiDouSats>8</tps:BeiDouSats>
+			<tps:SBASSats>0</tps:SBASSats>
+			<tps:QZSSSats>0</tps:QZSSSats>
+			<tps:ObservationDuration>59000</tps:ObservationDuration>
+			<tps:NumberOfEpochs>60</tps:NumberOfEpochs>
+		</tps:GPSPosition>
+	</tps:ObservationSession>
+	<tps:MeasurementSessions>
+		<tps:MeasurementSession id="MSS8" csIdRef="COS1" obsInfoIdRef="OBS5"/>
+		<tps:MeasurementSession id="MSS9" csIdRef="COS1" obsInfoIdRef="OBS7"/>
+		<tps:MeasurementSession id="MSS10" csIdRef="COS1" obsInfoIdRef="OBS8"/>
+		<tps:MeasurementSession id="MSS1" deviceIdRef="DEV1" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS1"/>
+		<tps:MeasurementSession id="MSS2" deviceIdRef="DEV2" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS2"/>
+		<tps:MeasurementSession id="MSS3" deviceIdRef="DEV2" controllerIdRef="CON1" gpsAntIdRef="ANT2" csIdRef="COS1" obsInfoIdRef="OBS2"/>
+		<tps:MeasurementSession id="MSS4" deviceIdRef="DEV3" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS3"/>
+		<tps:MeasurementSession id="MSS5" deviceIdRef="DEV4" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS4"/>
+		<tps:MeasurementSession id="MSS6" deviceIdRef="DEV4" controllerIdRef="CON1" gpsAntIdRef="ANT1" csIdRef="COS1" obsInfoIdRef="OBS6"/>
+		<tps:MeasurementSession id="MSS7" deviceIdRef="DEV4" controllerIdRef="CON1" gpsAntIdRef="ANT2" csIdRef="COS1" obsInfoIdRef="OBS6"/>
+	</tps:MeasurementSessions>
+	<tps:PlanEntities>
+		<tps:DesignPoint id="DPT1" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA27">
+				<tps:Name>1_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523775.941298465</tps:North>
+						<tps:East>325903.422792857</tps:East>
+						<tps:Height>377.044713387</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.044713387</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT2" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA28">
+				<tps:Name>2_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523782.517382437</tps:North>
+						<tps:East>325911.168479047</tps:East>
+						<tps:Height>377.633529499</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.633529499</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT3" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA29">
+				<tps:Name>3_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523789.482652148</tps:North>
+						<tps:East>325918.789601541</tps:East>
+						<tps:Height>377.794432632</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.794432632</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT4" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA30">
+				<tps:Name>4_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523796.553176174</tps:North>
+						<tps:East>325926.518375675</tps:East>
+						<tps:Height>378.019289416</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.019289416</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT5" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA31">
+				<tps:Name>5_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523803.793071472</tps:North>
+						<tps:East>325934.367097106</tps:East>
+						<tps:Height>378.028941363</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.028941363</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT6" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA32">
+				<tps:Name>6_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523810.928765912</tps:North>
+						<tps:East>325941.921858132</tps:East>
+						<tps:Height>377.942106473</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.942106473</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT7" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA33">
+				<tps:Name>7_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523817.625617027</tps:North>
+						<tps:East>325949.748984388</tps:East>
+						<tps:Height>377.989086756</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.989086756</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT8" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA34">
+				<tps:Name>8_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523824.840195523</tps:North>
+						<tps:East>325958.285806330</tps:East>
+						<tps:Height>377.963454374</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.963454374</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT9" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA35">
+				<tps:Name>9_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523832.021400357</tps:North>
+						<tps:East>325967.090889017</tps:East>
+						<tps:Height>377.862350132</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.862350132</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT10" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA36">
+				<tps:Name>10_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523839.320742139</tps:North>
+						<tps:East>325975.503837344</tps:East>
+						<tps:Height>377.733983598</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.733983598</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT11" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA37">
+				<tps:Name>11_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523841.742930001</tps:North>
+						<tps:East>325973.179575814</tps:East>
+						<tps:Height>377.908441002</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.908441002</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT12" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA38">
+				<tps:Name>12_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523834.608566420</tps:North>
+						<tps:East>325964.919862449</tps:East>
+						<tps:Height>378.023475684</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.023475684</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT13" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA39">
+				<tps:Name>13_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523827.306895059</tps:North>
+						<tps:East>325956.582887776</tps:East>
+						<tps:Height>378.075597740</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.075597740</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT14" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA40">
+				<tps:Name>14_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523820.048098962</tps:North>
+						<tps:East>325947.995422633</tps:East>
+						<tps:Height>378.062884076</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.062884076</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT15" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA41">
+				<tps:Name>15_feldstrasse_SAPOS</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523813.151386382</tps:North>
+						<tps:East>325940.013318024</tps:East>
+						<tps:Height>378.053965769</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.053965769</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT16" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA42">
+				<tps:Name>15</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523806.328891578</tps:North>
+						<tps:East>325932.118154859</tps:East>
+						<tps:Height>378.028302026</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>378.028302026</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT17" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA43">
+				<tps:Name>16</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523799.434919139</tps:North>
+						<tps:East>325923.856397284</tps:East>
+						<tps:Height>377.903717473</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.903717473</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT18" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA44">
+				<tps:Name>17</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523792.155072066</tps:North>
+						<tps:East>325916.137559527</tps:East>
+						<tps:Height>377.865914601</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.865914601</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT19" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA45">
+				<tps:Name>18</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523785.579466231</tps:North>
+						<tps:East>325908.590979679</tps:East>
+						<tps:Height>377.676752972</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.676752972</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+		<tps:DesignPoint id="DPT20" csIdRef="COS1">
+			<tps:Layer byCode="true"/>
+			<tps:Station id="STA46">
+				<tps:Name>19</tps:Name>
+				<tps:Position>
+					<tps:NEH>
+						<tps:North>5523778.772799878</tps:North>
+						<tps:East>325901.139636888</tps:East>
+						<tps:Height>377.231639375</tps:Height>
+					</tps:NEH>
+				</tps:Position>
+				<tps:PointFlags>topo</tps:PointFlags>
+				<tps:GeoidHeight>377.231639375</tps:GeoidHeight>
+			</tps:Station>
+		</tps:DesignPoint>
+	</tps:PlanEntities>
+	<tps:Roads>
+	</tps:Roads>
+</tps:MAXML>
