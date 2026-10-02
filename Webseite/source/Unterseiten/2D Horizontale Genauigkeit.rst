@@ -1,9 +1,6 @@
 2D Horizontale Genauigkeit
 ==========================
-Html1
-|
-|
- 
+
 .. raw:: html
 
    <iframe
@@ -13,11 +10,7 @@ Html1
        style="border:none;">
    </iframe>
 
-|
-|
-Html2
-|
-|
+
 .. raw:: html
 
    <iframe
@@ -26,6 +19,3 @@ Html2
        height="900"
        style="border:none;">
    </iframe>
-|
-|
-h
