@@ -32,4 +32,4 @@ html_static_path = ['_static']
 
 html_css_files = ['custom.css']
 
-html_extra_path = ['../../Anhang/Outputs']
+html_extra_path = ['../../Anhang/2_Skripte_mit_Input_Output/Outputs']
