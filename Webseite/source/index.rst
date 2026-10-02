@@ -11,10 +11,6 @@ Digitaler Anhang
    :maxdepth: 2
    :caption: Inhalte:
 
-   Unterseiten/Einleitung
-   Unterseiten/Untersuchungsgebiete
-   Unterseiten/Methodik
-   Unterseiten/Ergebnisse
-   Unterseiten/Diskussion
-   
+   Unterseiten/2D Horizontale Genauigkeit
+
 
