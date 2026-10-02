@@ -1,0 +1,23 @@
+Szenario;Messart;Lösungsstatus;Anzahl;Mittelwert Differenz [cm];Median Differenz [cm];Standardabweichung [cm];RMSE [cm];Mittelwert VDOP;Median VDOP;Mittelwert Galileo Satelliten;Median Galileo Satelliten;Mittelwert GPS Satelliten;Median GPS Satelliten;P68 berechnet (Absolut) [cm];P68 empirisch (Absolut) [cm];P95 berechnet (Absolut) [cm];P95 empirisch (Absolut) [cm];Anteil Differenz <= 40 cm [%]
+Feldweg;HAS - Normal;Float;40;-7,14;-7,12;3,72;8,03;1,01;1,01;8,98;8,5;8,9;9;8,64;8,69;11,82;11,78;100
+Feldweg;HAS - StopGo;Float;60;-4,91;-3,74;6,23;7,89;1,15;1,15;8;8;8,93;9;10,07;10,06;13,45;13,44;100
+Forst mit Seedpoint;HAS - Normal;Konvergierend;16;252,18;256,21;358,23;428,84;2,02;2,01;5,69;6;4,56;4,5;433,36;432,34;740,95;942,17;0
+Forst mit Seedpoint;HAS - StopGo;Konvergierend;24;471,44;466,99;328,4;570,62;2,01;1,92;5,75;6;4,54;5;609,78;626,73;890,27;891,14;4,17
+Grünfläche mit Seedpoint;HAS - Normal;Gesamt;12;7,71;1,95;14,23;15,66;2,34;2,35;4,25;4;4,17;4;13,29;20,64;30,48;30,9;100
+Grünfläche mit Seedpoint;HAS - Normal;Float;7;13,44;20,64;16,39;20,27;2,37;2,67;4,43;4;4;4;23,62;23,05;30,67;30,9;100
+Grünfläche mit Seedpoint;HAS - Normal;Konvergierend;5;-0,32;1,02;3,99;3,59;2,31;2,28;4;4;4,4;4;2,93;2,94;5,8;6,52;100
+Grünfläche mit Seedpoint;HAS - StopGo;Gesamt;12;11,47;9,85;30,01;30,94;3,06;3,08;3;3;4;4;19,27;19,62;59,1;93,77;91,67
+Grünfläche mit Seedpoint;HAS - StopGo;Float;6;12,11;12,14;8,03;14,16;2,94;3,09;3,33;3;4,67;5;15,11;18,95;20,02;20,38;100
+Grünfläche mit Seedpoint;HAS - StopGo;Konvergierend;6;10,82;6,56;43,77;41,4;3,18;3;2,67;3;3,33;4;24,07;30,74;78,02;93,77;83,33
+Parkplatz;HAS - Normal;Float;22;-10,79;-8,69;36,92;37,65;1,3;1,33;6,59;7;6,73;7;46,56;46,51;49,17;49,2;54,55
+Parkplatz;HAS - StopGo;Float;33;5,62;6,08;3,1;6,4;1,28;1,23;6,42;7;5,42;6;7,48;7,52;10,24;10,36;100
+Schlosspark mit Seedpoint;HAS - Normal;Gesamt;46;76,5;86,91;190,93;203,75;1,83;1,56;5,78;6;5,22;5;175,21;175,84;254,67;255,33;23,91
+Schlosspark mit Seedpoint;HAS - Normal;Float;6;-24,11;-10,81;29,26;35,98;1,38;1,4;6;6;5,5;5;34,35;60,85;61,18;61,29;66,67
+Schlosspark mit Seedpoint;HAS - Normal;Konvergierend;40;91,59;116,64;200,4;218,05;1,9;1,58;5,75;6;5,18;5;179,9;183,04;258,19;255,33;17,5
+Weinberg;HAS - Normal;Float;42;-4,81;-7,37;6,1;7,71;1,15;1,22;7,6;8;8,21;8;8,65;8,67;11,85;11,86;100
+Weinberg;HAS - StopGo;Float;63;-14,35;-14,3;2,38;14,54;1,12;1,12;6,98;7;8,52;8;15,5;15,49;17,56;17,56;100
+Drohnenreferenzpunkte;HAS - 10 Epochen;Float;6;-0,19;-0,68;6,57;6;1,1;1,12;8,67;8,5;8,17;8;5,71;7,19;10,68;11,85;100
+Drohnenreferenzpunkte;HAS - 60 Epochen;Float;6;-1,29;-2,16;4,97;4,71;1,07;1,05;9;9;8,5;8,5;4,71;7,53;7,6;7,63;100
+Weingut mit Seedpoint;HAS - Normal;Float;76;14,49;14;13,1;19,47;1,03;0,99;7,84;8;7,39;8;22,99;22,99;34,67;34,67;100
+Weingut ohne Seedpoint;HAS - Normal;Float;152;-7,87;-8,03;9,77;12,52;1,23;1,19;6,18;6;7,63;8;14,74;14,77;21,36;21,5;100
+Weingut gesamt;HAS - Normal;Float;228;-0,42;0,46;15,22;15,19;1,16;1,15;6,73;6;7,55;8;16,58;16,65;32,13;32,25;100
