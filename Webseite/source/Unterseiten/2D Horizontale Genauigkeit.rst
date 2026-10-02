@@ -4,6 +4,6 @@
 .. toctree::
    :maxdepth: 1
 
-   2D Horizontale Genauigkeit/Boxplots
+   2D Horizontale Genauigkeiten/Boxplots
 
 
