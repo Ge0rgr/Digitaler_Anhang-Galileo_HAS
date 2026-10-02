@@ -1,0 +1,11 @@
+Szenario;Lˆsungsstatus;Anzahl Ellipsen;Mittelwert Groﬂe Achse [cm];Median Groﬂe Achse [cm];Maximum Groﬂe Achse [cm];Mittelwert Kleine Achse [cm];Median Kleine Achse [cm];P95 Groﬂe Achse interpoliert [cm];P95 Groﬂe Achse empirisch [cm];Mittelwert Achsen Ratio;Median Achsen Ratio;Median Exzentrizit‰t
+Drohnenreferenzpunkte;Float;6;1,5;1,02;4,07;0,69;0,56;3,48;4,07;2,07;1,58;0,76
+Feldweg;Float;20;18,17;19,09;21,62;1,11;1,08;20,33;20,26;17,06;17,3;1
+Forst mit Seedpoint;Konvergierend;10;172,51;136,67;427,47;8,24;4,83;389,42;427,47;44,18;20,48;1
+Parkplatz;Float;11;29,91;30,11;35,86;0,56;0,56;33,96;35,86;55,44;50,35;1
+Schlosspark mit Seedpoint;Gesamt;23;118,4;91,74;421,22;4,03;3,51;345,51;358,75;55,56;38,09;1
+Schlosspark mit Seedpoint;Float;2;48,34;48,34;54,07;0,48;0,48;53,5;54,07;101,14;101,14;1
+Schlosspark mit Seedpoint;Konvergierend;19;129,86;107,04;421,22;4,47;3,53;365;421,22;50,82;35,96;1
+Schlosspark mit Seedpoint;Float = Konvergierend;2;79,67;79,67;82,99;3,42;3,42;82,66;82,99;55,03;55,03;1
+Weinberg;Float;21;8,45;7,47;22,57;0,4;0,35;15,37;15,37;25,54;20,07;1
+Weingut ohne Seedpoint;Float;76;4,6;4,53;10,96;0,47;0,45;8,82;9,47;11,75;10,4;1
