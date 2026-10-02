@@ -2,9 +2,8 @@
 ==========================
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
+   :maxdepth: 1
 
-   ../Unterunterseiten/2D Horizontale Genauigkeit/Boxplots
+   2D Horizontale Genauigkeit/Boxplots
 
 
