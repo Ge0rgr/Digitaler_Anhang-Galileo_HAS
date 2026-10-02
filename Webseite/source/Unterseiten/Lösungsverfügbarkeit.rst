@@ -14,3 +14,4 @@ Lösungsverfügbarkeit
 .. csv-table:: Verfügbarkeitstabelle
    :file: ../a_Output_completeAvailability/Verfuegbarkeitstabelle.csv
    :header-rows: 1
+   :delim: ;
