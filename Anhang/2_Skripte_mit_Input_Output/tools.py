@@ -208,9 +208,9 @@ def completeAvailability(input_data,save_location):
         avail_cols = {
             "Messszenario / Datei": avail_cellname,
             "Anzahl Sapos Fixed / PPP Float (Code 1)": (table["Avail_Code"] == 1).sum(),
-            "Anzahl Sapos Float / PPP Convergence (Code 0)": (table["Avail_Code"] == 0).sum(),
+            "Anzahl Sapos Float / PPP Konvergierend (Code 0)": (table["Avail_Code"] == 0).sum(),
             "Sapos Fixed / PPP Float (Code 1) [%]": round(avail_fix_pppfloat, 2),
-            "Sapos Float / PPP Convergence (Code 0) [%]": round(avail_float_pppconv, 2),
+            "Sapos Float / PPP Konvergierend (Code 0) [%]": round(avail_float_pppconv, 2),
 # Messszenario Uni fällt raus, da kein TILT für HAS
     #        "Sapos_Code_Diff (Code -1) [%]": round(avail_code_diff, 2),
     #        "Sapos_-/ PPP_Standalone (Code -2) [%]": round(avail_standalone, 2),
@@ -250,12 +250,12 @@ def completeAvailability(input_data,save_location):
 
     fig_balk.add_trace(gr_obj.Bar(
         x=avail_table["Messszenario / Datei"],
-        y=avail_table["Sapos Float / PPP Convergence (Code 0) [%]"],
-        name="Sapos Float / PPP Convergence",
+        y=avail_table["Sapos Float / PPP Konvergierend (Code 0) [%]"],
+        name="Sapos Float / PPP Konvergierend",
         marker_color="orange",
         text=avail_table["Messszenario / Datei"],
         textposition="none",
-        customdata=np.column_stack([avail_table["Anzahl Sapos Float / PPP Convergence (Code 0)"],avail_table["Gesamtanzahl Messungen"]]),
+        customdata=np.column_stack([avail_table["Anzahl Sapos Float / PPP Konvergierend (Code 0)"],avail_table["Gesamtanzahl Messungen"]]),
         hovertemplate=("Messung: %{text}<br>Anteil: %{y:.2f} %<br>Anzahl: %{customdata[0]:.0f} von %{customdata[1]:.0f}<extra></extra>")
         )
     )
