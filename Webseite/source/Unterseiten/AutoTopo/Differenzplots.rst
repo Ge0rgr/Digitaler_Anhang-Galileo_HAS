@@ -13,7 +13,7 @@ Differenzplots
 .. raw:: html
 
    <iframe
-       src="../../c_Output_normal_heightGraphs_HAS_SAPOS_DGM/Differenzplots/080526_weinberg_autotopo_HAS_DGM1_Linienplot_Differenz_HAS_DGM.html"
+       src="../../b_Output_autotopo_heightGraphs_HAS_DGM/Differenzplots/080526_weinberg_autotopo_HAS_DGM1_Linienplot_Differenz_HAS_DGM.html"
        width="100%"
        height="900"
        style="border:none;">
