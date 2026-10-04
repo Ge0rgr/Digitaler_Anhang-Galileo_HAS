@@ -1,7 +1,7 @@
 # Digitaler Anhang: Galileo HAS (High Accuracy Service) – Potenziale und Anwendungen unter verschiedenen Szenarien
 
 Hier werden alle erstellten Grafiken geordnet in einer Webseite dargestellt: https://ge0rgr.github.io/Digitaler_Anhang-Galileo_HAS/
-Das Ziel ist, dass dieser Link am Ende der Bachelorarbeit eingefügt wird und die potenziellen Leser alle Ergebnisse einsehen können.
+Das Ziel ist, dass dieser Link am Ende der Bachelorarbeit eingefügt wird und die potenziellen Leser alle erstellten Grafiken einsehen können.
 
 
 Der eigentliche Anhang ist der Ordner "Anhang". Die Datenstruktur lautet wie folgt
