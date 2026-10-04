@@ -14,5 +14,7 @@ Digitaler Anhang
    Unterseiten/Lösungsverfügbarkeit
    Unterseiten/2D Horizontale Genauigkeit
    Unterseiten/1D Vertikale Genauigkeit
-
+   Unterseiten/Präzision Normal
+   Unterseiten/Präzision StopGo
+   Unterseiten/AutoTopo
 
