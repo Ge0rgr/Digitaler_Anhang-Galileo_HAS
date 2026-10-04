@@ -1,5 +1,5 @@
-Ergebnisse
-==========
+Ergebnisse pro Messdurchgang
+============================
 
 .. raw:: html
 

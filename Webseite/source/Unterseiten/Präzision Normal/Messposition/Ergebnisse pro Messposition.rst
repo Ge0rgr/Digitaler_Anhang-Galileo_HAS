@@ -1,5 +1,5 @@
-Ergebnisse
-==========
+Ergebnisse pro Messposition
+===========================
 
 .. raw:: html
 
