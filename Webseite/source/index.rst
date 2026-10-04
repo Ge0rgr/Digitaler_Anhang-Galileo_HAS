@@ -13,5 +13,6 @@ Digitaler Anhang
 
    Unterseiten/Lösungsverfügbarkeit
    Unterseiten/2D Horizontale Genauigkeit
+   Unterseiten/1D Vertikale Genauigkeit
 
 
