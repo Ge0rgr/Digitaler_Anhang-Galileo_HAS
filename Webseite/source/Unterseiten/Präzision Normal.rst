@@ -16,7 +16,5 @@ Präzision Normal
 .. toctree::
    :maxdepth: 2
 
-   Präzision Normal/Messdurchgang
-   Präzision Normal/Messposition
-
-
+   Präzision Normal/Messdurchgang/Ergebnisse
+   Präzision Normal/Messposition/Ergebnisse
