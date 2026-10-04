@@ -22,7 +22,7 @@ Differenzplots
 .. raw:: html
 
    <iframe
-       src="../../c_Output_normal_heightGraphs_HAS_SAPOS_DGM/Differenzplots/Differenzplot_HAS_SAPOS_Forst mit Seedpoint mit Seedpoint.html"
+       src="../../c_Output_normal_heightGraphs_HAS_SAPOS_DGM/Differenzplots/Differenzplot_HAS_SAPOS_Forst mit Seedpoint.html"
        width="100%"
        height="900"
        style="border:none;">
