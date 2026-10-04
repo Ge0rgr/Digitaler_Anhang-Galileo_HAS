@@ -5,7 +5,9 @@ Hier werden alle erstellten Grafiken geordnet in einer Webseite dargestellt: htt
 Das Ziel ist, dass dieser Link am Ende der Bachelorarbeit eingefügt wird und die potenziellen Leser alle erstellten Grafiken einsehen können.
 
 
-Der eigentliche Anhang ist der Ordner "Anhang". Die Datenstruktur lautet wie folgt
+Der eigentliche Anhang ist der Ordner "Anhang". Die restlichen Ordner und Dateien in diesem Git sind für die Darstellung der html-Dateien mit dem Link und für die kleine Webseite notwendig.
+
+Die Datenstruktur im Anhang lautet wie folgt
 
 ## Anhang
 - **1_Rohdaten:** Hier sind die direkt aus Topcon Field exportierten und unbearbeiteten Rohdaten enthalten. Die Daten liegen als MXL-Dateien in den jeweiligen Ordnern der Messszenarien. 
