@@ -1,5 +1,5 @@
-1D Vertikale Genauigkeit
-========================
+Präzision StopGo
+================
 
 
 .. raw:: html

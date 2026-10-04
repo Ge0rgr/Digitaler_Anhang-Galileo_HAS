@@ -1,5 +1,5 @@
-Boxplots
-========
+Ergebnisse
+==========
 
 .. raw:: html
 

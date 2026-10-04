@@ -1,5 +1,5 @@
-Differenzplots
-==============
+Höhenplots
+==========
 
 .. raw:: html
 
