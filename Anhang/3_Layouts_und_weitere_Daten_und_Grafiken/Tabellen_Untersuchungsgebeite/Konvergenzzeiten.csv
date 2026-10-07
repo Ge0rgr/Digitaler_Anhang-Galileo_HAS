@@ -1,0 +1,10 @@
+Szenario;Konvergenzpunkt;Konvergenzdauer;Ø Konvergenzzeit
+Feldweg Träg;"1 ; 10";"11 min 22 sek ; 10 min 12 sek";10 min 47s
+Grünfläche Bitburg;Seedpoint;Seedpoint;Seedpoint
+Parkplatz Meilbrück;"1 ; 7";"15 min 07 s ; 15 min 41 s";15 min 24s
+Weingut Leiwen;Straßenseite gegenüber Punkt 1 (2x);"12 min 56 s ; 10 min 44 s";11 min 50 s
+Weinberg Kasel;Drohnenreferenzpunkt 1;13 min 12s;13 min 12s
+Forst Gerolstein;Seedpoint;Seedpoint;Seedpoint
+Schlosspark Trier;"1 ; 18";"14 min 47s ; 17 min 02s ";15 min 55 s
+Weinberg Kasel - AutoTopo ;Seedpoint;Seedpoint;Seedpoint
+Forst Gerolstein - AutoTopo;Seedpoint;Seedpoint;Seedpoint
