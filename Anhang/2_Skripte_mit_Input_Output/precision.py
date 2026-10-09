@@ -1155,7 +1155,7 @@ def precision_evaluation(input_data, save_location):
                 #text = ["P68", "P95"],
                 text = ["P95"],
                 marker=dict(color="red", size=10),
-                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil ≤ Schwellenwert: %{y:.2f} %<extra></extra>"),
+                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil <= Schwellenwert: %{y:.2f} %<extra></extra>"),
                 showlegend=False
             )
         )
@@ -1287,7 +1287,7 @@ def precision_evaluation(input_data, save_location):
                 #text = ["P68", "P95"],
                 text = ["P95"],
                 marker=dict(color="red", size=10),
-                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil ≤ Schwellenwert: %{y:.2f} %<extra></extra>"),
+                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil <= Schwellenwert: %{y:.2f} %<extra></extra>"),
                 showlegend=False
             )
         )

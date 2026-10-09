@@ -1,5 +1,5 @@
 Szenario;Anzahl Messpositionen;Mittelwert maximale Distanz [cm];Median maximale Distanz [cm];Maximum [cm];P95 interpoliert [cm];P95 empirisch [cm]
 Feldweg;20;5,22;5,05;8,33;8,22;8,21
-Forst;10;435,98;361,73;968,89;943,34;968,89
+Forst mit Seedpoint;10;435,98;361,73;968,89;943,34;968,89
 Parkplatz;11;9,17;9,22;12,23;12,22;12,23
 Weinberg;21;14,5;13,84;29,9;19,8;19,8

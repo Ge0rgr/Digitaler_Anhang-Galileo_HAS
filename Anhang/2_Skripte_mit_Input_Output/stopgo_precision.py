@@ -63,7 +63,7 @@ def stopgo_precision_evaluation(input_data, save_location):
                 szenario = "Grünfläche mit Seedpoint"
 
             elif filename.startswith("forst"):
-                szenario = "Forst"
+                szenario = "Forst mit Seedpoint"
 
             elif filename.startswith("wein_drohne"):
                 szenario = "Weinberg"
@@ -130,7 +130,7 @@ def stopgo_precision_evaluation(input_data, save_location):
         )
 
         fig_box.update_layout(
-            title= "Maximale horizontale Punktspanne innerhalb der StopGo-Messungen",
+            title= "Maximale horizontale Punktspanne innerhalb der StopGo Messungen",
             xaxis_title = "Messszenario",
             yaxis_title = "Maximale Distanz [cm]",
             template = "plotly_white"
@@ -208,7 +208,7 @@ def stopgo_precision_evaluation(input_data, save_location):
                 name = "95 Perzentil von " + str(szenario),
                 text = ["P95"],
                 marker=dict(color="red", size=10),
-                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil ≤ Schwellenwert: %{y:.2f} %<extra></extra>"),
+                hovertemplate=("Perzentil: %{text} <br>Empirischer Schwellenwert: %{x:.2f} cm<br> Anteil <= Schwellenwert: %{y:.2f} %<extra></extra>"),
                 showlegend = False
             )
         )
