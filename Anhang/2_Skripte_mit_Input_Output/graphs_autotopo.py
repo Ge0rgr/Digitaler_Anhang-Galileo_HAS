@@ -22,7 +22,6 @@ def autotopo_heightGraphs_HAS_DGM(input_data, save_location):
 
 
 
-############################################################# Bearbeitung Autotopo files ########################################################################
     for file in autotopo_files:
 
         autotopo_filename = os.path.splitext(os.path.basename(file))[0]
@@ -55,6 +54,7 @@ def autotopo_heightGraphs_HAS_DGM(input_data, save_location):
         #HAS_uncert = 0.40
 
 
+################################################################## Linienplot ############################################################################
 
 
         fig1 = gr_obj.Figure()
@@ -626,48 +626,52 @@ def autotopo_heightGraphs_HAS_DGM(input_data, save_location):
   ########## Fake Punkte, nur für Legende ###########
 
         #HAS float + Galileo vorhanden
-        fig_box.add_trace(
-            gr_obj.Scatter(
-                x = [None],
-                y = [None],
-                mode = "markers",
-                name = "Float mit Satellitenempfang",
-                marker = dict(color="blue", symbol="circle")
+        if (float_points & marker_sym_ok).any():
+            fig_box.add_trace(
+                gr_obj.Scatter(
+                    x = [None],
+                    y = [None],
+                    mode = "markers",
+                    name = "Float mit Satellitenempfang",
+                    marker = dict(color="blue", symbol="circle")
+                )
             )
-        )
 
         #HAS float + Galileo nicht vorhanden
-        fig_box.add_trace(
-            gr_obj.Scatter(
-                x = [None],
-                y = [None],
-                mode = "markers",
-                name = "Float ohne Satellitenempfang",
-                marker = dict(color="blue", symbol="x")
+        if (float_points & marker_sym_prob).any():
+            fig_box.add_trace(
+                gr_obj.Scatter(
+                    x = [None],
+                    y = [None],
+                    mode = "markers",
+                    name = "Float ohne Satellitenempfang",
+                    marker = dict(color="blue", symbol="x")
+                )
             )
-        )
 
         #HAS convergence + Galileo vorhanden
-        fig_box.add_trace(
-            gr_obj.Scatter(
-                x = [None],
-                y = [None],
-                mode = "markers",
-                name = "Konvergierend mit Satellitenempfang",
-                marker = dict(color="orange", symbol="circle")
+        if (convergence_points & marker_sym_ok).any():
+            fig_box.add_trace(
+                gr_obj.Scatter(
+                    x = [None],
+                    y = [None],
+                    mode = "markers",
+                    name = "Konvergierend mit Satellitenempfang",
+                    marker = dict(color="orange", symbol="circle")
+                )
             )
-        )
 
         #HAS convergence + Galileo nicht vorhanden
-        fig_box.add_trace(
-            gr_obj.Scatter(
-                x = [None],
-                y = [None],
-                mode = "markers",
-                name = "Konvergierend ohne Satellitenempfang",
-                marker = dict(color="orange", symbol="x")
+        if (convergence_points & marker_sym_prob).any():
+            fig_box.add_trace(
+                gr_obj.Scatter(
+                    x = [None],
+                    y = [None],
+                    mode = "markers",
+                    name = "Konvergierend ohne Satellitenempfang",
+                    marker = dict(color="orange", symbol="x")
+                )
             )
-        )
 
 
         ###### Boxplot beschriften #########
