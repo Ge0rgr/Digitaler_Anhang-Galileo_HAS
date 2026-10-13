@@ -9,7 +9,7 @@ import tools
 
 #
 #
-# Zur Erstellung der skripte wurde KI unterstützend verwendet
+# Zur Erstellung der skripte wurde ChatGPT unterstützend verwendet
 #
 #
 

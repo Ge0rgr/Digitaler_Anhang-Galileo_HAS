@@ -16,7 +16,7 @@ import pandas as pd
 
 #
 #
-# Zur Erstellung des skriptes wurde KI verwendet
+# Zur Erstellung des skriptes wurde ChatGPT verwendet
 # Dieses Skript wurde von einer KI erstellt; Das skript wurde geprüft
 #
 #

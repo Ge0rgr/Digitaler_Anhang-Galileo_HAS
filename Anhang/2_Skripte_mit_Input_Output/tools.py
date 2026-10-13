@@ -9,7 +9,7 @@ import plotly.graph_objects as gr_obj
 
 #
 #
-# Zur Erstellung der skripte wurde KI unterstützend verwendet
+# Zur Erstellung der skripte wurde ChatGPT unterstützend verwendet
 #
 #
 

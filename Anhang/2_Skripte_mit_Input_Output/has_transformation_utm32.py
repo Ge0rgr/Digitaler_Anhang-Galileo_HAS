@@ -33,7 +33,7 @@ from pyproj import Transformer
 
 #
 #
-# Zur Erstellung des skriptes wurde KI unterstützend verwendet;
+# Zur Erstellung des skriptes wurde ChatGPT unterstützend verwendet;
 # Dieses Skript wurde vom Betreuer bereitgestellt
 #
 #

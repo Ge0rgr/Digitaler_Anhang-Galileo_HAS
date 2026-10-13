@@ -3,7 +3,7 @@ import tools, graphs_autotopo, graphs_normal_height, stopgo_precision, precision
 
 #
 #
-# Zur Erstellung der skripte wurde KI unterstützend verwendet
+# Zur Erstellung der skripte wurde ChatGPT unterstützend verwendet
 #
 #
 
