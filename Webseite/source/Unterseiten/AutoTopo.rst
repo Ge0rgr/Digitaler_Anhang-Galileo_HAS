@@ -8,7 +8,7 @@ AutoTopo
    <iframe
        src="../b_Output_autotopo_heightGraphs_HAS_DGM/Tabelle_Autotopo_HAS_DGM_Höhendifferenzen.html"
        width="100%"
-       height="200px"
+       height="170px"
        style="border:1px solid #000000;margin-bottom:30px;">
    </iframe>
 
