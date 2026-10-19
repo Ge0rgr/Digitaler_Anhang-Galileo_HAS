@@ -58,19 +58,13 @@ Layouts
 .. raw:: html
 
    <img
-        src="../Layouts/AutoTopo_Weinberb.png"
+        src="../Layouts/Szenario_Weingut.png"
         style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Weingut_vor_Transformation.png"
-        style="width:60%; height:auto;">
-
-.. raw:: html
-
-   <img
-        src="../Layouts/Szenario_Weingut.png"
         style="width:60%; height:auto;">
 
 .. raw:: html
