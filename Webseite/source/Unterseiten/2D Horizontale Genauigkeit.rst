@@ -1,6 +1,17 @@
 2D Horizontale Genauigkeit
 ==========================
 
+**Ergebnisstabelle Lagegenauigkeit**
+
+.. raw:: html
+
+   <iframe
+       src="../d_Output_normal_horizontalGraphs_HAS_SAPOS/Tabelle_Horizontalgenauigkeit_HAS_SAPOS.html"
+       width="100%"
+       height="700px"
+       style="border:1px solid #000000;margin-bottom:30px;">
+   </iframe>
+
 .. toctree::
    :maxdepth: 1
 
