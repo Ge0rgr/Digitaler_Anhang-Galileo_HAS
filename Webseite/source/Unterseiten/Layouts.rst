@@ -12,66 +12,66 @@ Layouts
 
    <img
         src="../Layouts/Szenario_Feldweg.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Forst.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 .. raw:: html
 
    <img
         src="../Layouts/AutoTopo_Forst.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Bitburg.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Parkplatz.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Schlosspark.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Weinberg.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Weinberg.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/AutoTopo_Weinberb.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Weingut_vor_Transformation.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
    <img
         src="../Layouts/Szenario_Weingut.png"
-        style="width:80%; height:auto;">
+        style="width:60%; height:auto;">
 
 .. raw:: html
 
