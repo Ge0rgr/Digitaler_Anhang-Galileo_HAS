@@ -1,7 +1,6 @@
 Präzision Normal
 ================
 
-
 .. raw:: html
 
    <iframe
