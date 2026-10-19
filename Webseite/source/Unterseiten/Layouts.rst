@@ -52,7 +52,7 @@ Layouts
 .. raw:: html
 
    <img
-        src="../Layouts/Szenario_Weinberg.png"
+        src="../Layouts/AutoTopo_Weinberb.png"
         style="width:60%; height:auto;">
 
 .. raw:: html
