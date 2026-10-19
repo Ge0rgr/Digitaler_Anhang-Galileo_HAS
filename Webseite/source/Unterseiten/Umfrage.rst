@@ -10,7 +10,7 @@ Charakterisierung der Messszenrien
    <iframe
        src="../Tabellen_Untersuchungsgebeite/Charakterisierung_Messszenarien.html"
        width="100%"
-       height="700px"
+       height="670px"
        style="border:1px solid #000000;">
    </iframe>
 
@@ -21,7 +21,7 @@ Konvergenzzeiten
    <iframe
        src="../Tabellen_Untersuchungsgebeite/Konvergenzzeiten.html"
        width="100%"
-       height="300px"
+       height="250px"
        style="border:1px solid #000000;">
    </iframe>
 
@@ -32,6 +32,6 @@ Umfrageergebnisse
    <iframe
        src="../Umfrage/Umfrage_tabelle.html"
        width="100%"
-       height="300px"
+       height="400px"
        style="border:1px solid #000000;">
    </iframe>
