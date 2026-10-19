@@ -1,6 +1,16 @@
 Präzision StopGo
 ================
 
+**Ergebnisstabelle StopGo**
+
+.. raw:: html
+
+   <iframe
+       src="../f_Output_stopgo_precision_evaluation/Tabelle_StopGo_Präzision.html"
+       width="100%"
+       height="170px"
+       style="border:1px solid #000000;margin-bottom:30px;">
+   </iframe>
 
 .. raw:: html
 
