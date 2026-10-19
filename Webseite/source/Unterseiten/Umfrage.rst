@@ -20,7 +20,7 @@ Konvergenzzeiten
 
    <iframe
        src="../Tabellen_Untersuchungsgebeite/Konvergenzzeiten.html"
-       width="100%"
+       width="300px"
        height="250px"
        style="border:1px solid #000000;">
    </iframe>
@@ -32,6 +32,6 @@ Umfrageergebnisse
    <iframe
        src="../Umfrage/Umfrage_tabelle.html"
        width="100%"
-       height="400px"
+       height="430px"
        style="border:1px solid #000000;">
    </iframe>
