@@ -7,7 +7,7 @@ Präzision StopGo
 
    <iframe
        src="../f_Output_stopgo_precision_evaluation/Tabelle_StopGo_Präzision.html"
-       width="850px"
+       width="900px"
        height="130px"
        style="border:1px solid #000000;margin-bottom:30px;">
    </iframe>
