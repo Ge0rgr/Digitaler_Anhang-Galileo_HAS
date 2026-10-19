@@ -20,8 +20,8 @@ Konvergenzzeiten
 
    <iframe
        src="../Tabellen_Untersuchungsgebeite/Konvergenzzeiten.html"
-       width="400px"
-       height="500px"
+       width="500px"
+       height="490px"
        style="border:1px solid #000000;">
    </iframe>
 
