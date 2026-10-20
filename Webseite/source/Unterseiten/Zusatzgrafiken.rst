@@ -34,7 +34,7 @@ Zusatzgrafiken
    <iframe
        src="../Grafiken/Genauigkeit_Präzision.html"
        width="100%"
-       height="200"
+       height="300"
        style="border:none;">
    </iframe>
 
