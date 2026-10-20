@@ -1,23 +1,17 @@
 # Digitaler Anhang: Galileo HAS (High Accuracy Service) – Potenziale und Anwendungen unter verschiedenen Szenarien
 
-Hier werden alle erstellten Grafiken geordnet in einer Webseite dargestellt: https://ge0rgr.github.io/Digitaler_Anhang-Galileo_HAS/
+Alle erstellten Grafiken werden geordnet in dieser Webseite dargestellt: https://ge0rgr.github.io/Digitaler_Anhang-Galileo_HAS/
 
-Das Ziel ist, dass dieser Link am Ende der Bachelorarbeit eingefügt wird und die potenziellen Leser alle erstellten Grafiken einsehen können.
-
-
-Der eigentliche Anhang ist der Ordner "Anhang". Die restlichen Ordner und Dateien in diesem Git sind für die Darstellung der html-Dateien mit dem Link und für die kleine Webseite notwendig.
 
 Die Datenstruktur im Anhang lautet wie folgt
 
 ## Anhang
-- **1_Rohdaten:** Hier sind die direkt aus Topcon Field exportierten und unbearbeiteten Rohdaten enthalten. Die Daten liegen als MXL-Dateien in den jeweiligen Ordnern der Messszenarien. 
+**1_Rohdaten**: Hier sind die direkt aus Topcon Field exportierten Rohdaten enthalten. Die Daten liegen als MXL-Dateien in den jeweiligen Ordnern der Messszenarien.
 
-- **2_Skripte_mit_Input_Output:** Hier liegen die für die Analyse verwendeten Skripte direkt mit den zugehörigen Inputdaten im eigenen Ordner. Auch der durch die Skripte erstellte Outputordner mit den Outputdaten ist dort enthalten. 
-    + Im Skript "main" wird in Zeile 12 und 13 festgelegt wo der Input liegt und wo der Output erstellt werden soll. Die Zeile 12 muss angepasst werden und die Inputordner in der neu hinterlegten Ordnerstruktur abgelegt werden. Mit der Zeile 13 muss angegeben werden wo die Outputordner mit den zugehörigen Daten abgelegt werden sollen. Die bereits im Anhang vorhandenen Outputordner sind nicht für die erfolgreiche Ausführung des Skriptes notwendig, da der Outputordner neu erstellt wird.
-    + Im Anhang im Ordner Outputs sind die Boxplots, Differenzplots, etc. in eigenen Ordnern unterteilt. Dies erfolgte nicht mit dem Skript, sondern anhand einer manuellen Erstellung der entsprechenden Ordner und einer manuellen Verschiebung der Grafiken.
-    + Die bei graphs_normal_height und bei graphs_normal_horizontal erstellten Grafiken nach dem Schema "Weingut mit Seedpoint" und "Weingut ohne Seedpoint" sind Nebenprodukte des Skripts. Sie wurden in der Bachelorarbeit nicht verwendet und gelöscht, da die Daten bereits in den Grafiken gruppiert in "Weingut" enthalten sind. 
-    + Die in normal_heightGraphs_HAS_SAPOS_DGM erstellten Boxplots zu den Vergleichen vom DGM mit SAPOS und von HAS mit dem DGM wurden nicht in der Bachelorarbeit verwendet.
+**2_Skripte_mit_Input_Output**: Hier liegen die für die Analyse verwendeten Skripte direkt mit den zugehörigen Inputdaten im  Ordner Inputs. Die durch die Skripte erstellten Ergebnisse sind in Outputs enthalten.
+Im Input sind in den Ordnern mit den Präfixen 998 und 999 Daten enthalten, die letztendlich nicht weiter genutzt wurden. 
+Die erstellten Grafiken und Tabellen liegen im Ordner Outputs mit den Präfixen a-f. Die Boxplots, Differenzplots, etc. in sind dabei in entsprechenden Unterordnern unterteilt. In 1-3 sind Zwischenergebnisse enthalten. 
 
-- **3_Layouts_und_weitere_Daten_und_Grafiken:** Hier sind im Ordner Layouts die erstellten Layouts abgelegt. Im Ordner Grafiken entsprechend die zusätzlich erstellten Grafiken und im Ordner Umfrage die Ergebnisse der durchgeführten Umfrage. In Tabellen_Untersuchungsgebiete sind sowohl die vollständige Tabelle zur Charakterisierung der Umgebungsbedingungen der Messszenarien als auch die Tabelle zu den ermittelten Konvergenzzeiten enthalten.
+**3_Layouts_und_weitere_Daten_und_Grafiken**: Hier sind im Ordner Layouts die erstellten Layouts abgelegt. Im Ordner Grafiken  die zusätzlich erstellten Grafiken zur Veranschaulichung theoretischer Prozesse und im Ordner Umfrage die Ergebnisse der durchgeführten Umfrage. In Tabellen_Untersuchungsgebiete sind sowohl die vollständige Tabelle zur Charakterisierung der Umgebungsbedingungen der Messszenarien als auch die Tabelle zu den ermittelten Konvergenzzeiten enthalten.
 
-- **4_Zusatzquellen:** Hier ist die persönliche Mitteilung des GSC Help Desk zu Phase 2 des Galileo HAS enthalten.
+**4_Zusatzquellen**: Hier ist die persönliche Mitteilung des GSC Help Desk zu Phase 2 des Galileo HAS enthalten.
